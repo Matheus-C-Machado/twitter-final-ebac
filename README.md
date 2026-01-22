@@ -70,4 +70,4 @@ python manage.py runserver
 Acesse a aplicação em: http://127.0.0.1:8000/
 🌐 Deploy
 A aplicação está hospedada e pode ser acessada através do link abaixo:
-👉 (https://projetofinaltwitterr.onrender.com)
+👉 (https://twitter-final-ebac.onrender.com)
